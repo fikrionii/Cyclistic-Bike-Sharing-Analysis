@@ -4,8 +4,6 @@
   <img src="fig/riders_blue.png" width="180" height="200" />
 
 ## Introduction
-***
-
 ### The Cyclistic Company
 
 Cyclistic is a bike-sharing company in Chicago, United States that features more than 5,800 bicycles and 600 docking stations. Cyclistic sets itself apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with disabilities and riders who can’t use a standard two-wheeled bike. Cyclistic users are more likely to ride for leisure, but the users also use them to commute to work each day.
