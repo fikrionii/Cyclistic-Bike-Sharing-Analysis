@@ -1,7 +1,7 @@
 # Cyclistic Bike Sharing Analysis
 
 <p align="center">
-  <img src="fig/cyclistic_cover.jpg" width="180" height="200" />
+  <img src="fig/cyclistic_cover.jpg" width="250" height="250" />
 
 ## Introduction
 ### The Cyclistic Company
